@@ -1,1 +1,0 @@
-Compiler Command: aoc -v -march=emulator -o bin/add/add.aocx kernels/add.cl
