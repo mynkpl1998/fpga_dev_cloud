@@ -1,4 +1,4 @@
-#define SIZE 10000
+#define SIZE 100000
 
 __kernel void add(__global const float * restrict A, __global const float * restrict B, __global float * restrict out)
 {

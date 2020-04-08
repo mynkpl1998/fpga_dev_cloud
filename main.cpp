@@ -3,7 +3,7 @@
 #include <CL/cl.h>
 #include <cmath>
 
-#define SIZE 10000
+#define SIZE 100000
 #define FLT_EPSILON 0.0001
 
 bool comparewithGolden(float *golden, float *out)
